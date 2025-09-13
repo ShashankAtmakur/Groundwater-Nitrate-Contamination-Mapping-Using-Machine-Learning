@@ -1,4 +1,0 @@
-Rainfall-Runoff Modeling - Training Report==============================Dataset saved to: .\rainfall_runoff_synthetic.csvBest model: LinearRegressionPerformance:                      RMSE       MAE        R2
-LinearRegression  2.244650  1.803915  0.549833
-RandomForest      2.596745  2.086550  0.397531
-GradientBoosting  2.535303  1.940754  0.425704Observed vs Predicted plot saved to: .\observed_vs_predicted.png
